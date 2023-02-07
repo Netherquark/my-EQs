@@ -1,0 +1,6 @@
+{
+    "device": "alsa_output.usb-TX_Co._Ltd_TX_USB_Audio_2022081800001B-00.analog-stereo",
+    "device-description": "TX USB Audio Analog Stereo",
+    "device-profile": "analog-output",
+    "preset-name": "oratory1990_updated"
+}

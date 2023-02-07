@@ -1,0 +1,6 @@
+{
+    "device": "alsa_output.usb-TX_Co._Ltd_TX_USB_Audio_2022081800001B-00.iec958-stereo",
+    "device-description": "TX USB Audio Digital Stereo (IEC958)",
+    "device-profile": "iec958-stereo-output",
+    "preset-name": "oratory1990_updated"
+}
